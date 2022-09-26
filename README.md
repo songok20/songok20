@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @songok20
-- 👀 I’m interested in java projects
-- 🌱 I’m currently learning kabarak university
+- 👋 Hi, I’m SONGOK EVANS
+- 👀 I’m interested in java projects,android studio and python projects
+- 🌱 I’m currently learning kabarak university final year
 - 💞️ I’m looking to collaborate on team project
 - 📫 How to reach me is through my mail esongok@kabarak.ac.ke
 
